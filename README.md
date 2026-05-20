@@ -1,18 +1,45 @@
-# João Cuba
-Olá, Muito Prazer! Eu sou o João.
+# Olá, eu sou o João Cuba 👋
 
-Sou Engenheiro de Produção e Mestre em Engenharia de confiabilidade e risco. 
+Sou Engenheiro de Produção, Mestre em Engenharia de Confiabilidade e Risco, e atualmente estou direcionando meus estudos e projetos para a área de Data Science, Análise de Dados e Business Intelligence.
 
-No momento estou estudando data science.
+Tenho interesse em transformar dados em informações úteis para tomada de decisão, combinando conhecimentos de engenharia, estatística, programação e visualização de dados.
 
-## Conect-se comigo
+## Sobre mim
+
+- 🎓 Engenheiro de Produção
+- 🎓 Mestre em Engenharia de Confiabilidade e Risco
+- 📊 Estudando Data Science, SQL, Python e Power BI
+- 🧠 Interesse em análise de dados, indicadores, bancos de dados e visualização de informações
+- 🚀 Desenvolvendo projetos para portfólio com foco em dados e aplicações práticas
+
+## Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joaocuba/)
 
-## Habilidades
+## Tecnologias e Ferramentas
+
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-## GitHub Stats
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Atualmente estudando
 
+- Python aplicado à análise de dados
+- SQL para consulta e modelagem de bancos de dados
+- Power BI para construção de dashboards e indicadores
+- Fundamentos de Data Science
+- Desenvolvimento de projetos para portfólio
+
+## Áreas de interesse
+
+- Análise de Dados
+- Business Intelligence
+- Data Science
+- Engenharia de Dados
+- Indicadores de desempenho
+- Modelagem de bancos de dados
+- Visualização de dados
