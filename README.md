@@ -16,6 +16,12 @@ Tenho interesse em transformar dados em informações úteis para tomada de deci
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joaocuba/)
 
+## Portfólio
+
+Acesse meu hub de projetos em dados, onde reúno dashboards, análises, estudos e aplicações desenvolvidas com foco em Data Science, Analytics, Business Intelligence, SQL e Python.
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Hub%20de%20Projetos-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://joaocuba.github.io/HubProjetos/)
+
 ## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
