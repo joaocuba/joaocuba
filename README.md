@@ -8,6 +8,7 @@ Tenho interesse em transformar dados em informações úteis para tomada de deci
 
 - 🎓 Engenheiro de Produção
 - 🎓 Mestre em Engenharia de Confiabilidade e Risco
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📊 Estudando Data Science, SQL, Python e Power BI
 - 🧠 Interesse em análise de dados, indicadores, bancos de dados e visualização de informações
 - 🚀 Desenvolvendo projetos para portfólio com foco em dados e aplicações práticas
